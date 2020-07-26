@@ -1,4 +1,4 @@
-module bmx055
+module github.com/juntaki/bmx055-go
 
 go 1.13
 
